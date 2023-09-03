@@ -25,8 +25,8 @@
 - Splitting the dataset into training and testing sets.
 - Using *Random Forest* classification to handle non-linear relationships.
 - Test different methods to reach better accuracy by:
-_ Cross-validation.
-_ Grid search CV.
+* Cross-validation.
+* Grid search CV.
     
   
   
