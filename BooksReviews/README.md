@@ -8,6 +8,7 @@
 **Purpose:** This helps businesses to better understand customer feedback about their products or services to meet customers' satisfaction and increase the company's revenue.
 
 **Models:** To make the text reviews understandable for the model to learn by using the technique TF-IDF to transfer the text into numerical features. This problem is defined as a binary classification model.
+
 **Libraries**:
 - Pandas
 - NumPy
