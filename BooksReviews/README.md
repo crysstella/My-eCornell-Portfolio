@@ -14,9 +14,11 @@
 - NumPy
 - Matplotlib
 - Seaborn
+- 
 **Evaluation metrics**:
 - Precision: measure the proportion of correct predicted positive reviews out of all predicted positive reviews.
 - Recall: measure the proportion of correct predicted positive reviews out of all actual positive reviews.
+- 
 **Techniques**:
 - Check for missing values within the dataset.
 - Visualize class imbalance between positive reviews and negative reviews.
