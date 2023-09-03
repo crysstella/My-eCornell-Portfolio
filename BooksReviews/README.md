@@ -1,4 +1,4 @@
-### Training a model that detects customer reviews as negative or positive
+# Training a model that detects customer reviews as negative or positive
 **Datasets:** *bookReviewsData* includes 2 features:
 - *Review*: The text content of customer reviews.
 - *Positive Review*: A boolean value that appears **True** if the review is determined as a positive review and vice versa.
