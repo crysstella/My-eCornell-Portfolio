@@ -2,7 +2,8 @@
 **Datasets:** *bookReviewsData* includes 2 features:
 - *Review*: The text content of customer reviews.
 - *Positive Review*: A boolean value that appears **True** if the review is determined as a positive review and vice versa.
-**Objective:**Creating a model that predicts whether the review is positive or not with a high accuracy of about 80%.
+  
+**Objective:** Creating a model that predicts whether the review is positive or not with a high accuracy of about 80%.
 **Purpose:** This helps businesses to better understand customer feedback about their products or services to meet customers' satisfaction and increase the company's revenue.
 **Models:** To make the text reviews understandable for the model to learn by using the technique TF-IDF to transfer the text into numerical features. This problem is defined as a binary classification model.
 **Libraries**:
